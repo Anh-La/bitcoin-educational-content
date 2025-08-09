@@ -1069,7 +1069,7 @@ e2-dae -validatepegin=0 -defaultpeggedassetname=newasset -initialfreecoins=10000
 
 Lưu ý rằng số tiền được sử dụng ở đây là mệnh giá nhỏ nhất mà mạng có thể chấp nhận, vì vậy hai trăm triệu token tái phát hành thực sự tương đương với hai token nguyên vẹn. Điều tương tự cũng đúng với mệnh giá của các đồng tiền miễn phí ban đầu.
 
-Kiểm tra số dư ví hiện tại của máy chủ của chúng tôi.
+Kiểm tra số dư ví hiện tại của máy chủ của chúng ta.
 
 ```
 e1-cli getwalletinfo
